@@ -1,0 +1,5 @@
+Client/Server application for test movement, collisions
+Selfmade: 
+- simple collision detection
+- network client/server side with specific packet format
+Start server or client from one exe with different keys
